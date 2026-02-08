@@ -1,0 +1,6 @@
+Anomaly detection in IoT networks helps identify unusual traffic patterns.
+Isolation Forest is a machine learning algorithm used for anomaly detection.
+Vector databases store embeddings for semantic search.
+Retrieval Augmented Generation combines search and AI generation.
+Endee is a vector database for similarity search applications.
+Semantic search finds meaning instead of exact keyword matches.
